@@ -1,3 +1,1 @@
-# 💫 About Me:
-👋 Hi, I'm Chiemerie<br><br>💻 A student passionate about Software Engineering and Web Development<br>🚀 Constantly learning, building, and experimenting with new tech<br>📚 Love exploring coding challenges and real-world projects<br>✨ Open to collaborations and exciting opportunities<br><br>🌱 What I'm up to<br><br>Learning JavaScript, Python, and modern web frameworks<br><br>Building projects to sharpen my full-stack skills<br><br>Exploring open-source contributions<br><br>⚡ Fun Facts<br><br>🌍 Based in Nigeria<br><br>🎶 Love music while coding<br><br>🧩 Problem-solving is my favorite part of programming<br><br>📫 
 
